@@ -1,0 +1,55 @@
+body{
+    text-align: center;
+}
+#start{
+    background-color: black;
+
+}
+#start p{
+    color: white;
+}
+#name{
+    font-size: 60;
+    color: #38ef7d;
+}
+#logo {
+    width: 175px;
+    margin-bottom: 50px;
+    border-radius: 100%;
+    margin-top: 50px;
+}
+#intro h2{
+    text-decoration: underline;
+}
+#intro p{
+    font-size: 20px;
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-right: 50px;
+}
+#intro img{
+    width: 400px;
+    border-width: 3px;
+}
+
+#gain img{
+max-height: 225px;
+}
+
+#Contacts{
+    background-color: black;
+}
+#Contacts h3{
+    color:#38ef7d;
+    text-align: center;
+}
+#Contacts iframe{
+    width:100%;
+}
+#Contacts h2{
+    color:#38ef7d;
+    text-decoration: underline;
+}
+#gain h2{
+    text-decoration: underline;
+}   
